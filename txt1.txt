@@ -1,1 +1,2 @@
 This is a simple text file
+Add another line at bottom
